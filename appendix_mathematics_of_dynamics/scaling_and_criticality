@@ -1,0 +1,153 @@
+# Canonical Critical Form and Scaling Law
+
+This appendix describes the canonical critical reduction and the delay scaling law of endogenous dynamic criticality.
+
+Scaling is treated as a consequence of endogenous drift near a critical regime.
+
+---
+
+# Critical Dynamic Regime
+
+Near the critical regime, structural balance dynamics are represented as:
+
+    dC/dt = rC − C³
+
+where:
+
+- C(t) — total structural balance accumulated by the system over time;
+- r(t) — endogenous control parameter.
+
+The cubic term represents nonlinear saturation of structural balance growth.
+
+---
+
+# Endogenous Drift
+
+Near criticality, the endogenous control parameter evolves approximately as:
+
+    r(t) ≈ vt
+
+where:
+
+- v — endogenous drift velocity toward the bifurcation region.
+
+Within the EDS / EDC framework:
+
+    v = μP
+
+where:
+
+- μ — coupling coefficient;
+- P — structural load and maintenance cost.
+
+Substitution gives:
+
+    dC/dt = vtC − C³
+
+---
+
+# Rescaling
+
+Introduce dimensionless variables:
+
+    C = v^(1/3)y
+
+    t = v^(−1/3)τ
+
+Then the critical dynamic equation reduces to:
+
+    dy/dτ = τy − y³
+
+This is the canonical parameter-reduced form of the critical regime.
+
+---
+
+# Scaling Law
+
+The characteristic transition delay follows:
+
+    t_delay ~ v^(−1/3)
+
+Since:
+
+    v = μP
+
+the delay scaling can also be written as:
+
+    t_delay ~ (μP)^(−1/3)
+
+---
+
+# Operational Meaning
+
+The scaling law means that the available stabilization time decreases nonlinearly as endogenous drift velocity increases.
+
+Operationally:
+
+- slower drift increases the time available for adaptive stabilization;
+- faster drift compresses the resonance-window accessibility interval;
+- delayed correction increases the required stabilization resource;
+- excessive drift increases the probability of destructive bifurcation trajectories.
+
+---
+
+# Relation to Structural Balance
+
+The scaling law remains operationally constrained by:
+
+    C(t) > P(t)
+
+If positive structural balance is preserved:
+
+- stabilization remains accessible;
+- resonance-window traversal remains operationally possible;
+- retained synthesis-cycle formation remains viable.
+
+If positive structural balance weakens:
+
+- drift accelerates;
+- stabilization time decreases;
+- transition cost increases;
+- bifurcation trajectories become less controllable.
+
+---
+
+# Recursive Interpretation
+
+In recursive synthesis dynamics, scaling affects not only the current transition.
+
+It also influences:
+
+- qualitative characteristics of the retained synthesis cycle;
+- configuration of subsequent resonance windows;
+- inherited drift conditions;
+- future stabilization accessibility;
+- qualitative characteristics of subsequent synthesis cycles.
+
+Therefore:
+
+    the cost and characteristics of the next cycle depend on the drift velocity and structural balance of the current cycle.
+
+---
+
+# Universality Domain
+
+This scaling form applies under the following conditions:
+
+- cubic saturation dominates nonlinear dynamics;
+- the control parameter evolves smoothly near criticality;
+- endogenous drift can be locally approximated as r(t) ≈ vt;
+- the system remains nonlinear, open, dissipative, and dynamically evolving.
+
+Outside this domain, alternative scaling behavior may arise.
+
+---
+
+# Operational Interpretation
+
+Within the framework, scaling law represents:
+
+- temporal compression of stabilization accessibility;
+- nonlinear cost growth near criticality;
+- delay dynamics of phase-transition development;
+- and operational dependence of future synthesis cycles on current drift conditions.
