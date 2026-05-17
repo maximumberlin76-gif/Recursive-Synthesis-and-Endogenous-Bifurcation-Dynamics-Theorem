@@ -1,0 +1,34 @@
+# Canonical Critical Form and Scaling Law
+
+This appendix describes the canonical critical reduction and the delay scaling law of endogenous dynamic criticality.
+
+Scaling is treated as a consequence of endogenous drift near a critical regime.
+
+---
+
+# Critical Dynamic Regime
+
+Near the critical regime, structural balance dynamics are represented as:
+
+    dC/dt = rC − C³
+
+where:
+
+- C(t) — total structural balance accumulated by the system over time;
+- r(t) — endogenous control parameter.
+
+The cubic term represents nonlinear saturation of structural balance growth.
+
+---
+
+# Endogenous Drift
+
+Near criticality, the endogenous control parameter evolves approximately as:
+
+    r(t) ≈ vt
+
+where:
+
+- v — endogenous drift velocity toward the bifurcation region.
+
+Within the EDS /
