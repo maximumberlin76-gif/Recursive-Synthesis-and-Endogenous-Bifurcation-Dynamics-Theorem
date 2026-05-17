@@ -313,6 +313,47 @@ Delay scaling:
 
 ---
 
+# Canonical Critical Form and Scaling Law
+
+Near the critical regime:
+
+    dC/dt = vtC − C³
+
+Introduce rescaling:
+
+    C = v^(1/3)y
+
+    t = v^(−1/3)τ
+
+The system reduces to the canonical critical form:
+
+    dy/dτ = τy − y³
+
+This produces the characteristic delay scaling law:
+
+    t_delay ~ v^(−1/3)
+
+where:
+
+- t_delay — operational delay before critical phase-transition development;
+- v — endogenous drift velocity toward the bifurcation region.
+
+Operational interpretation:
+
+- increasing endogenous drift velocity reduces available stabilization time;
+- delayed correction of structural imbalance increases operational instability;
+- stabilization cost grows nonlinearly as the system approaches criticality.
+
+Within the framework:
+
+- slow endogenous drift increases adaptive stabilization capability;
+- accelerated drift compresses resonance-window accessibility;
+- excessive drift velocity increases probability of destructive bifurcation trajectories.
+
+The scaling law therefore represents an operational invariant governing stabilization accessibility near critical regimes in nonlinear open dissipative dynamic systems.
+
+---
+
 # Invariant I — Accumulated Positive Structural Work
 
 Accumulated positive structural work is defined as:
