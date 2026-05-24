@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this repository, theoretical framework, terminology, theorem structure, or any derived formulation, please cite this work."
+title: "Recursive Synthesis and Endogenous Bifurcation Dynamics Theorem: Recursive Inheritance of Retained Synthesis Cycles of Resonance-Window Phase Transitions Toward a New Level of Structural Self-Organization in Nonlinear Open Dissipative Dynamic Systems"
+authors:
+  - family-names: "Marnov"
+    given-names: "Maksym"
+    alias: "Alchimist"
+year: 2026
+date-released: 2026-05-24
+institution: "Independent Researcher · Philosophy & Systems Architecture"
+location:
+  name: "Berlin, Germany"
+license: "Apache-2.0"
+keywords:
+  - "Endogenous Dynamic Stability"
+  - "Endogenous Dynamic Criticality"
+  - "Recursive Synthesis"
+  - "Retained Synthesis Cycles"
+  - "Resonance-Window Phase Transitions"
+  - "Endogenous Bifurcation Drift"
+  - "Attractor Topology"
+  - "Retained Operational Domains"
+  - "Qualitative Characteristics"
+  - "Nonlinear Open Dissipative Dynamic Systems"
+abstract: "This repository presents the Recursive Synthesis and Endogenous Bifurcation Dynamics Theorem, describing recursive inheritance of retained synthesis cycles, resonance-window phase transitions, endogenous bifurcation drift, attractor topology, retained operational domains, and qualitative characteristics of subsequent synthesis cycles in nonlinear open dissipative dynamic systems."
+preferred-citation:
+  type: generic
+  title: "Recursive Synthesis and Endogenous Bifurcation Dynamics Theorem: Recursive Inheritance of Retained Synthesis Cycles of Resonance-Window Phase Transitions Toward a New Level of Structural Self-Organization in Nonlinear Open Dissipative Dynamic Systems"
+  authors:
+    - family-names: "Marnov"
+      given-names: "Maksym"
+      alias: "Alchimist"
+  year: 2026
+  institution: "Independent Researcher · Philosophy & Systems Architecture"
