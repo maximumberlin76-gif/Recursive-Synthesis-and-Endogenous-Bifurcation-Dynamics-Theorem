@@ -104,7 +104,7 @@ Operationally this means:
 
 Attractor deformation is not automatically destructive.
 
-Its qualitative sign depends on the direction and quality of endogenous drift.
+Its qualitative sign depends on the direction and qualitative characteristics of endogenous drift.
 
 Attractor deformation may lead toward:
 
@@ -135,6 +135,22 @@ Therefore:
 Recursive inheritance does not mean mechanical repetition.
 
 It means that prior retained synthesis cycles, attractor topology, accumulated positive structural work, and instability gradients modify future resonance-window accessibility and bifurcation trajectories.
+
+The system inherits not only the fact of prior retention, but also the qualitative characteristics of the retained regime.
+
+These qualitative characteristics may include:
+
+- direction of endogenous drift;
+
+- stability of the retained attractor;
+
+- accessibility of the next resonance window;
+
+- degree of fragmentation or coherence preservation;
+
+- capacity for subsequent accumulation of positive structural work;
+
+- and the possibility of entering the next retained operational domain.
 
 # Resonance Windows and Attractor Structure
 
@@ -188,7 +204,7 @@ Near the critical boundary:
 
 small parameter changes may produce disproportionate structural consequences.
 
-This is the EDC-sensitive region where attractor deformation becomes highly dependent on endogenous drift quality.
+This is the EDC-sensitive region where attractor deformation becomes highly dependent on the qualitative characteristics of endogenous drift.
 
 # Operational Interpretation
 
@@ -209,3 +225,5 @@ Attractor deformation represents the recursive modification of future operationa
 It may support reorganization or accelerate collapse depending on whether endogenous structural coherence remains stronger than destabilizing pressure:
 
 `C(t) > P(t)`
+
+The qualitative characteristics of the retained attractor determine how subsequent resonance-window accessibility, bifurcation trajectories, and synthesis-cycle formation become configured in the next operational cycle.
