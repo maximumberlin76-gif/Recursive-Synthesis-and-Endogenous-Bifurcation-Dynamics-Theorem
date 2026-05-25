@@ -82,7 +82,7 @@ qualitative characteristics of subsequent synthesis cycles.
  
 # Recursive Operational Chain
  
-`EDS / EDC         ↓ Positive Structural Balance         ↓ Accumulated Positive Structural Work         ↓ Possibility of Resonance-Window Formation         ↓ Formation and Retention of the Synthesis Cycle of the Resonance-Window Phase Transition Toward a New Level of Structural Self-Organization         ↓ Recursive Inheritance         ↓ Endogenous Bifurcation Drift         ↓ Configuration of Subsequent Resonance Windows         ↓ Subsequent Synthesis Cycle `
+`EDS — Endogenous Dynamic Stability         ↓ EDC — Endogenous Dynamic Criticality         ↓ Positive Structural Balance         ↓ Accumulated Positive Structural Work         ↓ Possibility of Resonance-Window Formation         ↓ Formation and Retention of the Synthesis Cycle of the Resonance-Window Phase Transition Toward a New Level of Structural Self-Organization         ↓ Recursive Inheritance         ↓ Endogenous Bifurcation Drift         ↓ Configuration of Subsequent Resonance Windows         ↓ Subsequent Synthesis Cycle `
  
 # Glossary
  
