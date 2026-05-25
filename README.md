@@ -7,78 +7,38 @@
 This framework describes:
  
  
-- 
- 
-
- 
-retained synthesis cycles of resonance-window phase transitions toward a new level of structural self-organization;
+- retained synthesis cycles of resonance-window phase transitions toward a new level of structural self-organization;
  
  
-- 
- 
-
- 
-endogenous bifurcation drift;
+- endogenous bifurcation drift;
  
  
-- 
- 
-
- 
-recursive inheritance;
+- recursive inheritance;
  
  
-- 
- 
-
- 
-resonance-window evolution;
+- resonance-window evolution;
  
  
-- 
- 
-
- 
-continuity of structural self-organization in nonlinear open dissipative dynamic systems.
+- continuity of structural self-organization in nonlinear open dissipative dynamic systems.
  
 The framework treats synthesis not as an isolated event, but as a recursively inherited endogenous operational process.
  
 The configuration of a formed and retained synthesis cycle  of a resonance-window phase transition toward a new level of structural  self-organization determines:
  
  
-- 
- 
-
- 
-subsequent bifurcation trajectories;
+- subsequent bifurcation trajectories;
  
  
-- 
- 
-
- 
-accessibility of subsequent resonance windows;
+- accessibility of subsequent resonance windows;
  
  
-- 
- 
-
- 
-endogenous drift configuration;
+- endogenous drift configuration;
  
  
-- 
- 
-
- 
-attractor topology;
+- attractor topology;
  
  
-- 
- 
-
- 
-qualitative characteristics of subsequent synthesis cycles.
+- qualitative characteristics of subsequent synthesis cycles.
  
 # Recursive Operational Chain
  
@@ -217,67 +177,31 @@ over time.
 All operational parameters must preserve identical semantic meaning across:
  
  
-- 
- 
-
- 
-README;
+- README;
  
  
-- 
- 
-
- 
-theorem chain;
+- theorem chain;
  
  
-- 
- 
-
- 
-appendices;
+- appendices;
  
  
-- 
- 
-
- 
-scaling derivations;
+- scaling derivations;
  
  
-- 
- 
-
- 
-retention layer;
+- retention layer;
  
  
-- 
- 
-
- 
-resonance-window layer;
+- resonance-window layer;
  
  
-- 
- 
-
- 
-recursive inheritance layer;
+- recursive inheritance layer;
  
  
-- 
- 
-
- 
-operational interpretation sections;
+- operational interpretation sections;
  
  
-- 
- 
-
- 
-experimental interpretation sections.
+- experimental interpretation sections.
  
 Parameter semantic drift is prohibited.
  
@@ -292,25 +216,13 @@ Operational structural balance is defined by:
 Where:
  
  
-- 
- 
-
- 
-S(t) — synthesis and structural formation;
+- S(t) — synthesis and structural formation;
  
  
-- 
- 
-
- 
-P(t) — structural load, extraction, destabilizing pressure, fragmentation pressure, and structural maintenance cost;
+- P(t) — structural load, extraction, destabilizing pressure, fragmentation pressure, and structural maintenance cost;
  
  
-- 
- 
-
- 
-D(t) — dissipation and structural degradation.
+- D(t) — dissipation and structural degradation.
  
 Formal structural existence is supported if:
  
@@ -329,18 +241,10 @@ Real dynamic stability over time requires:
 where:
  
  
-- 
- 
-
- 
-C(t) — general endogenous structural coherence parameter;
+- C(t) — general endogenous structural coherence parameter;
  
  
-- 
- 
-
- 
-P(t) — destabilizing structural pressure.
+- P(t) — destabilizing structural pressure.
  
 # Structural Coherence Representation
  
@@ -349,90 +253,42 @@ C(t) represents general endogenous structural coherence.
 C(t) is supported by:
  
  
-- 
- 
-
- 
-accumulated positive structural work;
+- accumulated positive structural work;
  
  
-- 
- 
-
- 
-regenerative structural processes;
+- regenerative structural processes;
  
  
-- 
- 
-
- 
-subsystem compatibility;
+- subsystem compatibility;
  
  
-- 
- 
-
- 
-retained operational continuity;
+- retained operational continuity;
  
  
-- 
- 
-
- 
-coherent internal self-organization;
+- coherent internal self-organization;
  
  
-- 
- 
-
- 
-resistance to fragmentation;
+- resistance to fragmentation;
  
  
-- 
- 
-
- 
-qualitative characteristics of endogenous drift.
+- qualitative characteristics of endogenous drift.
  
 C(t) is not identical to:
  
  
-- 
- 
-
- 
-Δ(t);
+- Δ(t);
  
  
-- 
- 
-
- 
-accumulated structural balance;
+- accumulated structural balance;
  
  
-- 
- 
-
- 
-∫(S(t) − P(t) − D(t))dt;
+- ∫(S(t) − P(t) − D(t))dt;
  
  
-- 
- 
-
- 
-simple synchronization R(t);
+- simple synchronization R(t);
  
  
-- 
- 
-
- 
-regeneration alone.
+- regeneration alone.
  
 Minimal operational stability condition:
  
@@ -459,25 +315,13 @@ In the reduced critical regime, endogenous structural coherence dynamics may be 
 Where:
  
  
-- 
- 
-
- 
-C(t) — reduced endogenous structural coherence variable near the critical regime;
+- C(t) — reduced endogenous structural coherence variable near the critical regime;
  
  
-- 
- 
-
- 
-r(t) — endogenous control parameter;
+- r(t) — endogenous control parameter;
  
  
-- 
- 
-
- 
-μ — coupling coefficient.
+- μ — coupling coefficient.
  
 Near criticality:
  
@@ -522,64 +366,32 @@ This produces the characteristic delay scaling law:
 where:
  
  
-- 
- 
-
- 
-t_delay — operational delay before critical phase-transition development;
+- t_delay — operational delay before critical phase-transition development;
  
  
-- 
- 
-
- 
-v — endogenous drift velocity toward the bifurcation region.
+- v — endogenous drift velocity toward the bifurcation region.
  
 Operational interpretation:
  
  
-- 
- 
-
- 
-increasing endogenous drift velocity reduces available stabilization time;
+- increasing endogenous drift velocity reduces available stabilization time;
  
  
-- 
- 
-
- 
-delayed correction of structural imbalance increases operational instability;
+- delayed correction of structural imbalance increases operational instability;
  
  
-- 
- 
-
- 
-stabilization cost grows nonlinearly as the system approaches criticality.
+- stabilization cost grows nonlinearly as the system approaches criticality.
  
 Within the framework:
  
  
-- 
- 
-
- 
-slow endogenous drift increases adaptive stabilization capability;
+- slow endogenous drift increases adaptive stabilization capability;
  
  
-- 
- 
-
- 
-accelerated drift compresses resonance-window accessibility;
+- accelerated drift compresses resonance-window accessibility;
  
  
-- 
- 
-
- 
-excessive drift velocity increases probability of destructive bifurcation trajectories.
+- excessive drift velocity increases probability of destructive bifurcation trajectories.
  
 The scaling law therefore represents an operational  invariant governing stabilization accessibility near critical regimes in  nonlinear open dissipative dynamic systems.
  
@@ -614,18 +426,10 @@ must remain preserved.
 Here:
  
  
-- 
- 
-
- 
-C(t) — general endogenous structural coherence and regenerative support of retained organizational persistence;
+- C(t) — general endogenous structural coherence and regenerative support of retained organizational persistence;
  
  
-- 
- 
-
- 
-P(t) — structural load, destabilizing pressure, fragmentation pressure, or dissipative maintenance cost.
+- P(t) — structural load, destabilizing pressure, fragmentation pressure, or dissipative maintenance cost.
  
 This guarantees that endogenous structural coherence and  regenerative support exceed destabilizing structural pressure over  completed operational cycles.
  
@@ -636,25 +440,13 @@ This condition must not be interpreted as a replacement  for the primary EDS dis
 Resonance windows are treated as:
  
  
-- 
- 
-
- 
-operational regions of admissible phase transition;
+- operational regions of admissible phase transition;
  
  
-- 
- 
-
- 
-dynamically accessible synthesis intervals;
+- dynamically accessible synthesis intervals;
  
  
-- 
- 
-
- 
-mechanisms of recursive continuation of structural self-organization.
+- mechanisms of recursive continuation of structural self-organization.
  
 The possibility of resonance-window formation and its characteristics operationally depend on:
  
@@ -669,32 +461,16 @@ Its qualitative sign depends on the direction and qualitative characteristics of
 A resonance window may become:
  
  
-- 
- 
-
- 
-a synthesis window;
+- a synthesis window;
  
  
-- 
- 
-
- 
-a reorganization window;
+- a reorganization window;
  
  
-- 
- 
-
- 
-a degradation window;
+- a degradation window;
  
  
-- 
- 
-
- 
-or a collapse window.
+- or a collapse window.
  
 # Formation and Retention of the Synthesis Cycle
  
@@ -703,73 +479,37 @@ External forcing does not directly create structure.
 External influence can only:
  
  
-- 
- 
-
- 
-define impulse configuration;
+- define impulse configuration;
  
  
-- 
- 
-
- 
-modify dynamic parameters;
+- modify dynamic parameters;
  
  
-- 
- 
-
- 
-act as a synchronization / coherence-support factor.
+- act as a synchronization / coherence-support factor.
  
 If the external impulse is coherent with the endogenous  dynamics of the structure, the system becomes capable of independently  initiating:
  
  
-- 
- 
-
- 
-formation;
+- formation;
  
  
-- 
- 
-
- 
-retention;
+- retention;
  
  
-- 
- 
-
- 
-continuation
+- continuation
  
 of the synthesis cycle of the resonance-window phase transition toward a new level of structural self-organization.
  
 After formation of the first stable cycle:
  
  
-- 
- 
-
- 
-cycle configuration;
+- cycle configuration;
  
  
-- 
- 
-
- 
-retention dynamics;
+- retention dynamics;
  
  
-- 
- 
-
- 
-attractor structure
+- attractor structure
  
 begin to be endogenously inherited by the system.
  
@@ -782,46 +522,22 @@ Recursive inheritance dynamics:
 Where:
  
  
-- 
- 
-
- 
-Q(n) — qualitative characteristics of the retained synthesis cycle;
+- Q(n) — qualitative characteristics of the retained synthesis cycle;
  
  
-- 
- 
-
- 
-D(n) — accumulated dissipative inheritance;
+- D(n) — accumulated dissipative inheritance;
  
  
-- 
- 
-
- 
-R(n) — retained synchronization / coherence-support configuration;
+- R(n) — retained synchronization / coherence-support configuration;
  
  
-- 
- 
-
- 
-A(n) — attractor topology;
+- A(n) — attractor topology;
  
  
-- 
- 
-
- 
-E(n) — environmental interaction gradient;
+- E(n) — environmental interaction gradient;
  
  
-- 
- 
-
- 
-Φ — recursive endogenous synthesis operator.
+- Φ — recursive endogenous synthesis operator.
  
 Recursive inheritance does not mean mechanical repetition.
  
@@ -832,85 +548,41 @@ It means that the qualitative configuration of a retained  synthesis cycle influ
 The framework treats:
  
  
-- 
- 
-
- 
-matter;
+- matter;
  
  
-- 
- 
-
- 
-biological systems;
+- biological systems;
  
  
-- 
- 
-
- 
-cognitive systems;
+- cognitive systems;
  
  
-- 
- 
-
- 
-civilizations;
+- civilizations;
  
  
-- 
- 
-
- 
-intelligent adaptive systems
+- intelligent adaptive systems
  
 as endogenous dynamically retained regimes of structural self-organization.
  
 The framework focuses on:
  
  
-- 
- 
-
- 
-recursive continuity;
+- recursive continuity;
  
  
-- 
- 
-
- 
-structural balance;
+- structural balance;
  
  
-- 
- 
-
- 
-retained synthesis cycles;
+- retained synthesis cycles;
  
  
-- 
- 
-
- 
-endogenous drift;
+- endogenous drift;
  
  
-- 
- 
-
- 
-resonance-window accessibility;
+- resonance-window accessibility;
  
  
-- 
- 
-
- 
-operational stability over time.
+- operational stability over time.
 
 ## Author
 
