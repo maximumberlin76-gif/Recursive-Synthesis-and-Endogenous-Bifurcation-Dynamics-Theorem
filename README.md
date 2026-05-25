@@ -338,6 +338,26 @@ Within the framework:
 
 The scaling law therefore represents an operational invariant governing stabilization accessibility near critical regimes in nonlinear open dissipative dynamic systems.
 
+## Cubic Scaling Note
+
+The exponent `−1/3` follows from the cubic nonlinear saturation term in the reduced critical regime:
+
+`dC/dt = vtC − C³`
+
+The cubic term is used because retained structural stability is treated as a volumetric third-order stabilization problem, not as a purely linear or quadratic correction.
+
+Operationally:
+
+- linear drift drives the system toward criticality;
+- cubic saturation limits structural coherence growth;
+- three-dimensional retained structural organization requires third-order nonlinear stabilization.
+
+Therefore:
+
+`t_delay ~ v^(−1/3)`
+
+is not an arbitrary scaling choice, but follows from the cubic saturation structure of the reduced EDC regime.
+
 # Invariant I — Accumulated Positive Structural Work
 
 Accumulated positive structural work is defined as:
