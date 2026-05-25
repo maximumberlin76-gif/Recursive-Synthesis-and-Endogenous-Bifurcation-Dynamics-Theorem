@@ -14,3 +14,5 @@ Q(n+1)=Φ(Q(n),D(n),R(n),A(n),E(n))
       ↓
 next resonance window:
 synthesis / reorganization / degradation / collapse
+
+C(t) > P(t)
