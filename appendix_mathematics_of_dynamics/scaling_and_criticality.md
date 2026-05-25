@@ -116,6 +116,55 @@ It is not inserted as an external assumption.
 
 ---
 
+# Why the Scaling Is Cubic
+
+The cubic scaling is not introduced as an arbitrary exponent.
+
+Within the reduced critical regime, the dynamics are written as:
+
+`dC/dt = vtC − C³`
+
+The term:
+
+`vtC`
+
+represents linear drift-driven growth of the endogenous structural coherence variable near the critical regime.
+
+The term:
+
+`−C³`
+
+represents nonlinear saturation of structural coherence growth.
+
+The cubic term is used because retained structural stability is treated as a volumetric third-order stabilization problem, not as a purely linear or quadratic correction.
+
+A quadratic correction would describe pairwise or surface-like nonlinear limitation.
+
+The cubic term represents third-order structural saturation, where coherence growth becomes limited by volumetric constraint, internal compatibility, and nonlinear self-interaction of the retained regime.
+
+Therefore, the delay scaling:
+
+`t_delay ~ v^(−1/3)`
+
+follows from the cubic saturation structure of the reduced critical dynamics.
+
+Operationally:
+
+- linear drift drives the system toward criticality;
+- cubic saturation limits structural coherence growth;
+- three-dimensional retained structural organization requires third-order nonlinear stabilization;
+- the available stabilization time scales as the inverse cubic root of endogenous drift velocity.
+
+The exponent:
+
+`−1/3`
+
+is therefore not inserted as an external assumption.
+
+It follows from the cubic nonlinear saturation term governing the reduced EDC regime.
+
+---
+
 # Operational Meaning
 
 The scaling law means that the available stabilization time decreases nonlinearly as endogenous drift velocity increases.
